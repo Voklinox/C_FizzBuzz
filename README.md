@@ -1,2 +1,2 @@
-# C_FizzBuzz
+# C_FizzBuzz RELEASE BETA 
 Git Lab S2 EFREI INT4 
